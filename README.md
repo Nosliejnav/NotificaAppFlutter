@@ -1,4 +1,4 @@
-# # notifica_app
+# notifica_app
 
 A new Flutter project.
 
